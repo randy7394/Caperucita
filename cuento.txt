@@ -1,1 +1,3 @@
 HOLA MUNDO. esta es la prueba de como usar git
+
+despues de hacer pruebas se guardan cambios nuevamente antes de hacer ramas
