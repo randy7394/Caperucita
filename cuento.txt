@@ -1,5 +1,6 @@
 HOLA MUNDO. esta es la prueba de como usar git
 
+<<<<<<< HEAD
 
 sguimos editando el archivo para hacer pruebas en git
 
@@ -10,3 +11,6 @@ sigue la prueba de git
 siguiendo la prueba de git
 
 siguiendo la prueba
+=======
+despues de hacer pruebas se guardan cambios nuevamente antes de hacer ramas
+>>>>>>> imagenes_alternativas
